@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c467de87-a5cc-4644-afed-7d36275352b1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/ennorath/Новая папка/task" />
   </component>
   <component name="RunManager">
     <configuration name="task" type="Python.DjangoServer" factoryName="Django server">
@@ -130,6 +131,8 @@
       <workItem from="1603001720970" duration="1945000" />
       <workItem from="1603004223702" duration="1608000" />
       <workItem from="1603008142932" duration="42000" />
+      <workItem from="1603008308591" duration="470000" />
+      <workItem from="1603020822688" duration="350000" />
     </task>
     <servers />
   </component>
