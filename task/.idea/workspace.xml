@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec09ebb7-f2e6-40b7-8753-f040a2d22374" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.ebextensions/django.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionary/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionary/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionary/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionary/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,11 +73,23 @@
       <workItem from="1603365735099" duration="1251000" />
       <workItem from="1603368781607" duration="18000" />
       <workItem from="1603368848399" duration="13000" />
+      <workItem from="1603368863302" duration="519000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="951" y="321" key="FileChooserDialogImpl" timestamp="1603368859349">
