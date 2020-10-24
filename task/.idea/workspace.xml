@@ -48,6 +48,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -91,7 +92,7 @@
       <workItem from="1603365735099" duration="1251000" />
       <workItem from="1603368781607" duration="18000" />
       <workItem from="1603515435754" duration="10000" />
-      <workItem from="1603515447126" duration="2508000" />
+      <workItem from="1603515447126" duration="3590000" />
     </task>
     <servers />
   </component>
