@@ -1,3 +1,2 @@
-release: python manage.py loaddata users.json
 release: python manage.py migrate
 web: gunicorn task.wsgi --log-file -
