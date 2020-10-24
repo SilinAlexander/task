@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec09ebb7-f2e6-40b7-8753-f040a2d22374" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,7 @@
       <workItem from="1603365735099" duration="1251000" />
       <workItem from="1603368781607" duration="18000" />
       <workItem from="1603515435754" duration="10000" />
-      <workItem from="1603515447126" duration="1402000" />
+      <workItem from="1603515447126" duration="2508000" />
     </task>
     <servers />
   </component>
@@ -114,5 +114,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="321" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603515443159" />
+    <state x="1020" y="268" key="RollbackChangesDialog" timestamp="1603519743008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1020" y="268" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603519743008" />
   </component>
 </project>
