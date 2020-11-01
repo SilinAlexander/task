@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="ec09ebb7-f2e6-40b7-8753-f040a2d22374" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/task/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +38,6 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -89,35 +78,17 @@
       <updated>1603341544835</updated>
       <workItem from="1603341546788" duration="203000" />
       <workItem from="1603341760781" duration="6622000" />
-      <workItem from="1603365735099" duration="1251000" />
-      <workItem from="1603368781607" duration="18000" />
-      <workItem from="1603515435754" duration="10000" />
-      <workItem from="1603515447126" duration="3986000" />
+      <workItem from="1604236858771" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="WindowStateProjectService">
-    <state x="951" y="321" key="FileChooserDialogImpl" timestamp="1603515443159">
+    <state x="951" y="321" key="FileChooserDialogImpl" timestamp="1604236883722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="951" y="321" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603515443159" />
-    <state x="1020" y="268" key="RollbackChangesDialog" timestamp="1603519743008">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1020" y="268" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603519743008" />
+    <state x="951" y="321" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604236883722" />
   </component>
 </project>
