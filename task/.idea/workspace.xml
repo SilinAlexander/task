@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ec09ebb7-f2e6-40b7-8753-f040a2d22374" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrypoint.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/task/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,16 +94,37 @@
       <workItem from="1603341546788" duration="203000" />
       <workItem from="1603341760781" duration="6622000" />
       <workItem from="1604236858771" duration="27000" />
+      <workItem from="1604236887685" duration="5430000" />
+      <workItem from="1604244042030" duration="7000" />
+      <workItem from="1604395602298" duration="32000" />
+      <workItem from="1604401926265" duration="1198000" />
+      <workItem from="1604413970483" duration="3656000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="951" y="321" key="FileChooserDialogImpl" timestamp="1604236883722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="321" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604236883722" />
+    <state x="809" y="222" key="RollbackChangesDialog" timestamp="1604243166186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="809" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604243166186" />
   </component>
 </project>
